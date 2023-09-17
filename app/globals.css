@@ -6,6 +6,7 @@
     "Fira Mono", "Droid Sans Mono", "Courier New", monospace;
 
   --color-text-main: #333;
+  --color-text-sub: #999;
 }
 
 * {
